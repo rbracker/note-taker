@@ -61,3 +61,6 @@ Repository contains a quality README file with description, screenshot, and link
 Fulfilling the following can add 10 points to your grade. Note that the highest grade you can achieve is still 100:
 
 Application allows users to delete notes.
+
+## End Product
+![Alt text](<note-taker image.gif>)
